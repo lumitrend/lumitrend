@@ -5,8 +5,7 @@
 🧿 The framework I often use is React, Vue.Js,Vite,NuxtJs,Next.Js.  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,vue,vite,webpack,sass,tailwind,css,nuxtjs,html,markdown,py" />
-  <img src="https://skillicons.dev/icons?i=debian,ae,au,docker,figma,ai,xd,pr,ps" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,vue,vite,webpack,sass,tailwind,css,nuxtjs,html,markdown,py,debian,ae,au,docker,figma,ai,xd,pr,ps&perline=8" />
 </div>
 
 ## 🚀 Development project
