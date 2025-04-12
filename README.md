@@ -1,7 +1,8 @@
 <p align="center">
-[English](/README_EN.md)
-  </p>
   
+[English](/README_EN.md)
+
+  </p>
 # 👋 Hi I'm Lumitrend
 😊 I am an open-source tool builder,I have created many online open source tools for everyone to use.  
 ## ⚒ technology stack
